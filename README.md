@@ -3,7 +3,7 @@
 <div align="center">
   <h1 style="color: #FF69B4;">Hello! I'm Zolen </h1>
   <p style="font-size: 18px;">I enjoy exploring and creating scripts that optimize time.</p>
-  <img src="https://media.discordapp.net/attachments/1187007151357562922/1297980512232800287/klipartz.com1.png?ex=6717e60d&is=6716948d&hm=63cfd7afed0166df8a33ccf04348a4f7afe713931795a0c9da80a2cb30f71a43&=&format=webp&quality=lossless" width="150" />
+  <img src="" width="150" />
 </div>
 
 ## 👨‍💻 About Me
