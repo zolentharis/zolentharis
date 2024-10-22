@@ -3,7 +3,6 @@
 <div align="center">
   <h1 style="color: #FF69B4;">Hello! I'm Zolen </h1>
   <p style="font-size: 18px;">I enjoy exploring and creating scripts that optimize time.</p>
-  <img src="" width="150" />
 </div>
 
 ## 👨‍💻 About Me
